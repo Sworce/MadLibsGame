@@ -1,4 +1,4 @@
-//Authors: 
+//Authors:Tommy Luo 
 #include <iostream>
 #include <string>
 using namespace std;
